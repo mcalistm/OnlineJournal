@@ -178,25 +178,12 @@ The reason why I choose Materiaize is mainly due to the various features they of
 ### **Wireframes**
 I used [Balsamic](https://balsamiq.com/wireframes/) to create wireframes for my website. 
 
-You can find my wireframes below:
-
-For the homepage I have only created 1 wireframe as the design is quite basic and looks identical on all screen sizes.
-* [Home](wireframes/desktop-home.png)
-
-#### Desktop Wireframes
-* [Dashboard](wireframes/desktop-dashboard.png)
-* [Add Dog](wireframes/desktop-adddog.png)
-* [Add Log](wireframes/desktop-addlog.png)
-
-#### Tablet Wireframes
-* [Dashboard](wireframes/tablet-dashboard.png)
-* [Add Dog](wireframes/tablet-adddog.png)
-* [Add Log](wireframes/tablet-addlog.png)
-
-#### Mobile Wireframes
-* [Dashboard](wireframes/mobile-dashboard.png)
-* [Add Dog](wireframes/mobile-adddog.png)
-* [Add Log](wireframes/mobile-addlog.png)
+You can find my wireframes below! Each wireframe file has the designated mobile, tablet and desktop images:
+* [Home - User not logged in or registered](wireframes/home-page-not-logged-in.pdf)
+* [Home - User logged in](wireframes/home-page-logged-in.pdf)
+* [Sign Up](wireframes/sign-up.pdf)
+* [Login](wireframes/login.pdf)
+* [Add Entry](add-entry.pdf)
 
 ### **Flowcharts**
 
